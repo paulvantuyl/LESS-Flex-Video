@@ -1,7 +1,7 @@
 LESS Flex-Video
 ===============
 
-Responsive video mixin for LESS, converted from Zurb's Foundation SCSS Mixin.
+Responsive video mixin for LESS, converted from Zurb's [Foundation SCSS Mixin](https://github.com/zurb/foundation/blob/master/scss/foundation/components/_flex-video.scss).
 
 To create a responsive video container, use
 
